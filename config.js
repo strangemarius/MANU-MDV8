@@ -26,7 +26,7 @@
 ════════════════════════════════════════════════════════════════════════════
 */
 /**
- * 🧠 Author        : Manul Official
+ * 🧠 Author        : STR 
  * 🌐 Project Name  : MANU-MD
  * 🛠 Base Script   : By Manul Official
  * 📝 Description   : MANU-MD is a powerful and customizable WhatsApp bot 
@@ -41,6 +41,6 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'Put_Your_Session_ID', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
+SESSION_ID: process.env.SESSION_ID || 'Manu-MD&iPJ0yyJ8', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
 PORT: process.env.PORT || '3000'
 };
